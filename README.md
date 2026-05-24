@@ -1,4 +1,4 @@
-# 🧠 Breast Cancer Classification ML Project
+# Breast Cancer Classification ML Project
 
 This project builds and compares machine learning models to classify breast cancer tumors as **Malignant (M)** or **Benign (B)** using patient diagnostic data.
 
