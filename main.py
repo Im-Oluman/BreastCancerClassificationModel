@@ -2,7 +2,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import pandas as pd
-import pickle
+import joblib
 
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.preprocessing import LabelEncoder, StandardScaler
